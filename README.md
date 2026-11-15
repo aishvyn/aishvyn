@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I'm Aishwarya 👋
 
-<!--
-**aishvyn/aishvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst | Data Analytics | AI & Automation
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Business Analyst with experience in IT, software testing, UAT, and business processes. I enjoy combining business knowledge with technology to build practical solutions.
+
+🚀 About Me
+
+💼 Business Analyst at HCLTech
+
+📊 Interested in Data Analytics and Business Intelligence
+
+🤖 Exploring AI-powered applications and automation
+
+💡 Passionate about solving real-world business problems
+
+🌱 Currently learning Python, Advanced SQL and Power BI
+
+🛠️ Skills & Tools
+
+Analytics: SQL, Excel, Power BI
+
+Business: Business Analysis, UAT, Jira, Process Improvement
+
+Technology: AI Applications, Browser Automation, GitHub
+
+📂 Featured Projects
+
+SoulShelf – Shared Grocery Inventory App
+
+A shared grocery inventory management application.
+
+Browser Automation with Playwright
+
+Automating browser workflows and testing scenarios.
+
+AI Chatbot
+
+An AI-powered conversational application.
+
+Herbal Products E-Commerce Website
+
+An e-commerce platform for herbal products.
+
+Financial Market Risk Analysis
+
+Research on time-varying risk spillovers across financial markets.
+
+📫 Connect With Me
+
+GitHub: https://github.com/aishvyn
+
+YouTube: https://youtube.com/@kiyantv-27
+
+Email: aishwaryasri234@gmail.com
+
+⭐ Thanks for visiting my profile!
